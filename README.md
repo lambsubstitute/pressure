@@ -7,7 +7,7 @@ colour it was when it was laid.
 It is one HTML file. No build step, no bundler, no asset pipeline — every texture, the
 sky, and all of the audio are generated procedurally at load. The only dependency is
 three.js from a CDN. Visits to the live site are counted with GoatCounter (no cookies,
-no personal data).
+no personal data), along with whether a visit reaches 1, 5, 15 or 30 minutes of play.
 
 ## Play
 
